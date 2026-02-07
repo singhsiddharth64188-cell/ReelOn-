@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "313275659922",
+    "project_id": "reelon-app",
+    "storage_bucket": "reelon-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313275659922:android:e554e30cf548a416af584b",
+        "android_client_info": {
+          "package_name": "ReelOn.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJPzb9K5YFeEoqMn6YAnPUPOTyGKz1b0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313275659922:android:2cdda75de1e4f948af584b",
+        "android_client_info": {
+          "package_name": "com.example.reelonapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJPzb9K5YFeEoqMn6YAnPUPOTyGKz1b0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
