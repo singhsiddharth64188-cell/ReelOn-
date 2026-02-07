@@ -1,0 +1,1 @@
+class ReelModel{ String id; String videoUrl; ReelModel(this.id,this.videoUrl);}
