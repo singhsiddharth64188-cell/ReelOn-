@@ -1,8 +1,3 @@
+# Reelon App
 
-# ReelOn 🎬
-
-Flutter based short video reels app.
-
-## Platforms
-- Android
-- iOS
+Basic Flutter reel app structure.
