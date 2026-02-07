@@ -1,14 +1,3 @@
-
-name: reelon
-description: ReelOn short video app
-publish_to: 'none'
-
-environment:
-  sdk: '>=3.0.0 <4.0.0'
-
-dependencies:
-  flutter:
-    sdk: flutter
-
-flutter:
-  uses-material-design: true
+name: reelon_app
+description: A reel app
+version: 1.0.0
